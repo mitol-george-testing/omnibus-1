@@ -4,3 +4,7 @@ menu:
     name: empty resource
     url: content/empty-resource.md
     weight: 0
+  - identifier: c65a943e-c3d5-4c30-85ba-9499bc770826
+    name: resource 2
+    url: content/resource-2.md
+    weight: 10
