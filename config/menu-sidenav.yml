@@ -1,0 +1,6 @@
+menu:
+  mainmenu:
+  - identifier: 2c360252-86f6-4f40-b9f7-fef75e7059ca
+    name: resource 2
+    url: content/empty-resource.md
+    weight: 0
